@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "scripts": {
+        "test":"mocha 'src/*.spec.js'"
+    },
+    "devDependencies": {
+        "mocha": "^10.1.0"
+    },
+    "dependancies": {
+        "chai":"^4.3.6"
+    }
+}
